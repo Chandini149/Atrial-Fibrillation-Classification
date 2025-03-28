@@ -85,7 +85,7 @@ This project implements various machine learning models for detecting Atrial Fib
 - Development of personalized models
 
 ## 🛠️ Requirements
-- Python 3.x
+- Python
 - scikit-learn
 - LightGBM
 - TensorFlow/Keras
